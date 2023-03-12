@@ -1,7 +1,7 @@
-#Email Scraper
-####An email scraper that fetches all the emails from the inbox of an account, and stores the data into a MySQL database table.
+# Email Scraper
+#### An email scraper that fetches all the emails from the inbox of an account, and stores the data into a MySQL database table.
 
-##Features:
+## Features:
 - Read email and password combination from keyboard.
 - Read email and password combinations from a csv file.
 - Show the contents of a table.
